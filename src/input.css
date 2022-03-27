@@ -1,0 +1,16 @@
+.main {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background-color: whitesmoke;
+    width: 50%;
+    border-radius: 30px;
+}
+
+.img {
+    width: 7%;
+}
